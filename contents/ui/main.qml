@@ -4,7 +4,7 @@
  SPDX-FileCopyrightText: 2011 Martin Gräßlin <mgraesslin@kde.org>
  SPDX-FileCopyrightText: 2023 Mélanie Chauvel (ariasuni) <perso@hack-libre.org>
 
- SPDX-License-Identifier: GPL-2.0-or-later
+ SPDX-License-Identifier: GPL-3.0-or-later
  */
 import QtQuick
 import QtQuick.Layouts

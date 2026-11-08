@@ -9,7 +9,7 @@
         ],
         "Description": "A modern and informative window switcher layout with virtual desktop and screen name indicators based Modern Informative by Mélanie Chauvel (ariasuni)",
         "Id": "moreInfoDS",
-        "License": "GPL",
+        "License": "GPL-3.0-or-later",
         "Name": "moreInfoDS",
         "Name[fr]": "moreInfoDS",
         "Version": "1.0"
