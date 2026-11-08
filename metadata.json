@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KWin/WindowSwitcher",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "enrightyao@outlook.com",
+                "Name": "enyao"
+            }
+        ],
+        "Description": "A modern and informative window switcher layout with virtual desktop and screen name indicators based Modern Informative by Mélanie Chauvel (ariasuni)",
+        "Id": "moreInfoDS",
+        "License": "GPL",
+        "Name": "moreInfoDS",
+        "Name[fr]": "moreInfoDS",
+        "Version": "1.0"
+    }
+}
